@@ -1,0 +1,43 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Alamofire",
+        "repositoryURL": "https://github.com/Alamofire/Alamofire",
+        "state": {
+          "branch": null,
+          "revision": "2777659076fda38bd4e487739ee331c7a65b5924",
+          "version": "5.2.1"
+        }
+      },
+      {
+        "package": "Bond",
+        "repositoryURL": "https://github.com/DeclarativeHub/Bond",
+        "state": {
+          "branch": null,
+          "revision": "f89bb719065848f976999daa6ae71fca39df010e",
+          "version": "7.7.1"
+        }
+      },
+      {
+        "package": "Differ",
+        "repositoryURL": "https://github.com/tonyarnold/Differ.git",
+        "state": {
+          "branch": null,
+          "revision": "4c3eb4d76ad5c14075829397a5741b0badb08dce",
+          "version": "1.4.5"
+        }
+      },
+      {
+        "package": "ReactiveKit",
+        "repositoryURL": "https://github.com/DeclarativeHub/ReactiveKit.git",
+        "state": {
+          "branch": null,
+          "revision": "657faa987330879852b4117937b632b108a11400",
+          "version": "3.17.3"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
